@@ -80,6 +80,4 @@ $ python -m project_name
 $ project_name
 ```
 
-## Development
-
-Read the [CONTRIBUTING.md](CONTRIBUTING.md) file.
+## Thank you vedy much
